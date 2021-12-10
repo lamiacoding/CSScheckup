@@ -1,0 +1,25 @@
+.div-class{
+    background-color: lightcoral;
+    font-size: 20px;
+    padding: 50px;
+    margin: 10px
+}
+
+p{
+    font-size:30px ;
+    font-weight: bold ;
+}
+
+
+
+#number2{
+    font-size:50px;
+    text-align: center;
+    background-color: brown;
+    height:100px; 
+    width:100px;
+    padding:50px ; 
+    border:20px dashed rgb(158, 84, 84) ;
+    margin:40px
+    
+}
